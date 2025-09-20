@@ -18,4 +18,4 @@ The goal is to simulate how actual data analysts in the e-commerce or retail ind
 
 ✅ Write business-driven SQL queries to derive insights around pricing, inventory, stock availability, revenue and more
 
-t
+
